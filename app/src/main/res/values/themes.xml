@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartTasbih" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#D8553F</item>
+    </style>
+
+    <style name="Theme.SmartTasbih" parent="Base.Theme.SmartTasbih" />
+
+
+    <style name="ITEM">
+        <item name="android:background">@drawable/item_background</item>
+    </style>
+
+
+
+    <style name="MAIN_BG">
+        <item name="android:background">@color/light_main_bg</item>
+    </style>
+
+    <style name="TEXT">
+        <item name="android:text">@color/black</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartTasbih" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/dark_main</item>
+    </style>
+
+
+
+    <style name="MAIN_BG">
+        <item name="android:background">@color/dark_main_bg</item>
+    </style>
+
+    <style name="ITEM">
+        <item name="android:background">@drawable/item_background_night</item>
+    </style>
+
+    <style name="TEXT">
+        <item name="android:text">@color/white</item>
+    </style>
+
+
+
+</resources>
